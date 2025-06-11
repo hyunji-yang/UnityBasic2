@@ -15,7 +15,7 @@ MonoBehaviour:
   templatePath: QuickSheet/ExcelPlugin/Templates
   scriptFilePath: Data/Runtime
   editorScriptFilePath: Data/Editor
-  sheetName: Data.xlsx
+  sheetName: Data 1.xlsx
   workSheetName: Test
   columnHeaderList:
   - type: 3
@@ -26,7 +26,9 @@ MonoBehaviour:
     name: Name_S
     isEnable: 0
     isArray: 0
-  excelFilePath: Assets/Data/Data.xlsx
+  excelFilePath: Assets/Data/Data 1.xlsx
   SheetNames:
   - Test
+  - Dialogue
+  - Character
   currentSelectedSheet: 0
